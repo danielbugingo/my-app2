@@ -1,0 +1,3 @@
+let compression = require('compression');
+// ... Typical Express.js set up...
+app.use(compression());
